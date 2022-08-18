@@ -1,0 +1,7 @@
+/**app.wxss**/
+/* 引入iconfont */
+@import "/static/iconfont/iconfont.wxss";
+/* 微信小程序会将每个页面最外层添加 page 组件 */
+page{
+    height:100%;
+}
